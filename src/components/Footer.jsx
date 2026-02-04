@@ -143,7 +143,7 @@ export default function Footer() {
 
       <div className="mk-footer-bottom">
         <span>
-          © 2024 By Rikkei Academy – Rikkei Education – All rights reserved.
+          © 2024 By Rikkei Academy – công ty cổ phần Rikkei Education – All rights reserved.
         </span>
       </div>
     </footer>
